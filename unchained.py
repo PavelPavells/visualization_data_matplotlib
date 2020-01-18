@@ -6,7 +6,7 @@ MATPLOTLIB **UNCHAINED**
 Comparative path demonstration of frequency from a fake signal of a pulsar
 (mostly known because of the cover for Joy Division's Unknown Pleasures).
 
-Author: Nicolas P. Rougier
+Author: Pavel Smirnov
 """
 
 import numpy as np
